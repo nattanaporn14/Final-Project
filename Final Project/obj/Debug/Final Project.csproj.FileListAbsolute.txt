@@ -1,0 +1,10 @@
+D:\Natty\FinalProject\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+D:\Natty\FinalProject\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+D:\Natty\FinalProject\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\Natty\FinalProject\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+D:\Natty\FinalProject\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+D:\Natty\FinalProject\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\Natty\FinalProject\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\Natty\FinalProject\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\Natty\FinalProject\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\Natty\FinalProject\Final Project\Final Project\obj\Debug\Final Project.pdb
